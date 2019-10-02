@@ -66,8 +66,8 @@ export class Contact extends React.Component {
  render() {
   return(
     <div>
-      <div class="d-flex flex-column bd-highlight mb-3 contact-bg">
-        <div class="flex-fill">
+      <div className="d-flex flex-column bd-highlight mb-3 contact-bg">
+        <div className="flex-fill">
         <form className='react-form' method="post" onSubmit={this.handleSubmit}>
          <h1 id='formTitle'>Contact</h1>
 
@@ -96,7 +96,7 @@ export class Contact extends React.Component {
          </div>
         </form>
         </div>
-        <div class="ml-auto p-2 bd-highlight">
+        <div className="ml-auto p-2 bd-highlight">
           <CreditPopup credit={<a id="photoCredit" href='https://unsplash.com/@nevenkrcmarek'>Photo by Neven Krcmarek on Unsplash</a>}/>
         </div>
       </div>
