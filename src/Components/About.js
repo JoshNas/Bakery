@@ -7,7 +7,7 @@ var description = 'Try our delecious pastries and fresh brewed coffees!'
 export class About extends Component {
   render() {
     return (
-      <div>
+      <div id="about">
         <div class="d-flex flex-column bd-highlight mb-3 about-bg">
           <div class="flex-fill align-self-center">
           <div className="container text-center">

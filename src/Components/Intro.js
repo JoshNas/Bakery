@@ -7,7 +7,7 @@ import './intro.css'
 export class Intro extends Component {
   render() {
     return (
-      <div>
+      <div id="intro">
         <div class="d-flex flex-column bd-highlight mb-3 intro-bg">
           <div class="flex-fill align-self-center">
           <div className="container text-center">
