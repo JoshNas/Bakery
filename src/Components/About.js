@@ -15,7 +15,7 @@ export class About extends Component {
             </div>
           </div>
           <div class="ml-auto p-2 bd-highlight">
-            <CreditPopup credit={<a id="photoCredit" href='https://unsplash.com/@nevenkrcmarek'>Photos by Neven Krcmarek on Unsplash</a>}/>
+            <CreditPopup credit={<a id="photoCredit" href="https://unsplash.com/@karishea">Photo by Kari Shea on Unsplash</a>}/>
           </div>
         </div>
       </div>

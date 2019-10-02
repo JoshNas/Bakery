@@ -97,7 +97,7 @@ export class Contact extends React.Component {
         </form>
         </div>
         <div class="ml-auto p-2 bd-highlight">
-          <CreditPopup credit={<a id="photoCredit" href='https://unsplash.com/@nevenkrcmarek'>Photos by Neven Krcmarek on Unsplash</a>}/>
+          <CreditPopup credit={<a id="photoCredit" href='https://unsplash.com/@nevenkrcmarek'>Photo by Neven Krcmarek on Unsplash</a>}/>
         </div>
       </div>
     </div>
