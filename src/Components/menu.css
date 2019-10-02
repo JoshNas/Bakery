@@ -1,0 +1,9 @@
+.menuImage {
+	border-radius: 8px;
+	max-width: 340px;
+	max-height: 320px;
+}
+
+.menuContainer {
+  margin-bottom: 20px;
+}

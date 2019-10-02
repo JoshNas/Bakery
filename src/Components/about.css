@@ -1,0 +1,12 @@
+.about-bg {
+	background-image: url('../img/background4.png');
+  min-height: 450px;
+  height: 100%;
+  /* Center and scale the image nicely */
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  margin-bottom:15px;
+  border-radius: 6px;
+  padding-top: 10px;
+}
