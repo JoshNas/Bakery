@@ -65,7 +65,7 @@ export class Contact extends React.Component {
 
  render() {
   return(
-    <div>
+    <div id="contact">
       <div className="d-flex flex-column bd-highlight mb-3 contact-bg">
         <div className="flex-fill">
         <form className='react-form' method="post" onSubmit={this.handleSubmit}>
