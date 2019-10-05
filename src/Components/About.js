@@ -8,9 +8,9 @@ export class About extends Component {
   render() {
     return (
       <div id="about">
-        <div className="d-flex flex-column bd-highlight mb-3 about-bg">
+        <div className="d-flex flex-column bd-highlight  mb-3 about-bg">
           <div className="flex-fill align-self-center">
-          <div className="container text-center">
+            <div className="container text-center">
               <h1 className="display-4">{description}</h1>
             </div>
           </div>
