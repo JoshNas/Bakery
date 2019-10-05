@@ -2,7 +2,8 @@ import React, { Component } from 'react';
 import { CreditPopup } from './Popups'
 import './about.css'
 
-var description = 'Try our delecious pastries and fresh brewed coffees!'
+const description = 'Featuring delicious handmade pastries and freshly ground coffee'
+
 
 export class About extends Component {
   render() {

@@ -1,5 +1,5 @@
 .about-bg {
-	background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),url('../img/background2.jpg');
+	background-image: linear-gradient(rgba(0, 0, 0, 0.65), rgba(0, 0, 0, 0.65)),url('../img/background2.jpg');
   min-height: 450px;
   height: 100%;
   /* Center and scale the image nicely */
