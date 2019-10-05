@@ -1,10 +1,10 @@
-import React from 'react'
+import React, { Component } from 'react'
 import { CreditPopup } from './Popups'
 import './contact.css'
 import $ from 'jquery'
 
 
-export class Contact extends React.Component {
+export class Contact extends Component {
  constructor(props) {
   super(props)
 
